@@ -1,1 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+	<<title>Myers Professional Baker</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+
+<body><div class="Scrollbar">
+	<ul>
+		<li><a href="#About">About</a></li>
+		<li><a href="#Portfolio">Portfolio</a></li>
+		<li><a href="#Exp">Skills</a></li>
+		<li><a href="#Contact">Contact</a></li>
+    <br>
+	</ul></div>
+ 
+    <br>
+    <div class="About" id="About">	
+    <br>
+<h1>Myers Patissiere
+</h1>
+<br>
+<br>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p>We at Myers Bakery believe that every pastry we make should be perfect. With over 25 years of experience in the business, we provide delicious confectionary for many occasions such as weddings, corporate functions, parties and luxury afternoon teas. Our team of passionate bakers and patissiers will handcraft a wide range of sandwiches savouries and desserts to suit your taste.We are committed to providing our customers with luxury products at an affordable price without sacrificing the love and care that goes into our work.
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="H2" id="Portfolio">
+<br>
+<br>
+<h2>Portfolio</h2>
+<p> These photos show a small collection of our pastry selection and can be individually catered to your preferance.</p>
+<br>
+<br>
+</div>
+<div class="Port">
+  <img src="https://i.imgur.com/CPgFOkY.png">
+  <img src="https://i.imgur.com/Iawaej1.png">
+  <img src="https://i.imgur.com/VY5ycJR.png">
+  <img src="https://i.imgur.com/BSMIWve.png">
+  <img src="https://i.imgur.com/DDLHjt3.png">
+ <img src="https://i.imgur.com/36RYzII.png">
+ <img src="https://i.imgur.com/d0wiXOM.png">
+ <img src="https://i.imgur.com/VPTKcPi.png">
+ <img src="https://i.imgur.com/FzZx8Bg.png">
+</div>
+<br>
+<br>
+<br>
+ <div class="Experience" id="Exp">
+<h2>Experience</h2>
+<br>
+</div>
+<br>
+<p>All of our staff are trained by the head baker to ensure that you recieve the best products.The head baker Was awarded the following certificates from the Ashburton Chefs Academy.
+<ol class="Qualification">
+<li>Ashburton Advanced Diploma in Cuisine & Patisserie</li>
+<li>QCF Level 4 Diploma in Professional Culinary Arts</li>
+<li>QCF Level 3 Diploma in Professional Patisserie</li>
+<li>CIEH Level 3 Award in Food Safety</li>
+<li>WSET Level 1 Foundation Certificate in Wines</li>
+</ol>
+<br>
+<br>
+<br>
+
+<h3>Contact us</h3>
+<p> If you would like to inquire about hiring our staff to cater for your event please let us know.</p>
+<br>
+<br>
+<br>
+<div class="contact" id="Contact">
+<form action="Post">
+  <input placeholder="Name" type="text" required>
+  <br>
+  <input placeholder="Email Address" type="email"required>
+ <br>
+  <input placeholder="Phone Number" type="tel"required>
+ <br>
+  <textarea placeholder="Message" required></textarea>
+<br>
+  <button name="Send" type="submit">Send</button|>
+  </form>
+  </div>
+  <footer>
+    <a href="https://twitter.com/MyersPlumLoaf" target="_blank"><i class="fa fa-twitter"></i></a>
+    <a href="https://www.facebook.com/myersmoment/" target="_blank"><i class="fa fa-facebook-official"></i></a>
+    <a href="https://www.instagram.com/myers_bakery_cafe_deli/" target="_blank"><i class="fa fa-instagram"></i></a>
+        </footer>
+</body>
+
+</html>
